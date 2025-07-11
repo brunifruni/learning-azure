@@ -1,0 +1,1052 @@
+[
+    {
+        "Id": "610f9a787074484dbcd881be5e931b1d",
+        "RecognitionStatus": "Success",
+        "Offset": 700000,
+        "Duration": 154900000,
+        "Channel": 0,
+        "DisplayText": "Hello, my name is Bruna and I'm currently studying systems analysis and development. I'm passionate about technology, especially cybersecurity and data analysis. I believe that technology can solve real world problems and make a positive impact on people's lives.",
+        "NBest": [
+            {
+                "Confidence": 0.82255137,
+                "Lexical": "hello my name is bruna and i'm currently studying systems analysis and development i'm passionate about technology especially cybersecurity and data analysis i believe that technology can solve real world problems and make a positive impact on people 's lives",
+                "ITN": "hello my name is bruna and i'm currently studying systems analysis and development i'm passionate about technology especially cybersecurity and data analysis i believe that technology can solve real world problems and make a positive impact on people's lives",
+                "MaskedITN": "hello my name is bruna and i'm currently studying systems analysis and development i'm passionate about technology especially cybersecurity and data analysis i believe that technology can solve real world problems and make a positive impact on people's lives",
+                "Display": "Hello, my name is Bruna and I'm currently studying systems analysis and development. I'm passionate about technology, especially cybersecurity and data analysis. I believe that technology can solve real world problems and make a positive impact on people's lives.",
+                "Words": [
+                    {
+                        "Word": "hello",
+                        "Offset": 700000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "my",
+                        "Offset": 7500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "name",
+                        "Offset": 9500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 11100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "bruna",
+                        "Offset": 12700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 15900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "i'm",
+                        "Offset": 20700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "currently",
+                        "Offset": 21900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "studying",
+                        "Offset": 25900000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "systems",
+                        "Offset": 30300000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "analysis",
+                        "Offset": 35500000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 41500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "development",
+                        "Offset": 42700000,
+                        "Duration": 9200000
+                    },
+                    {
+                        "Word": "i'm",
+                        "Offset": 53100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "passionate",
+                        "Offset": 55100000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "about",
+                        "Offset": 60700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "technology",
+                        "Offset": 62700000,
+                        "Duration": 9600000
+                    },
+                    {
+                        "Word": "especially",
+                        "Offset": 73100000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "cybersecurity",
+                        "Offset": 79500000,
+                        "Duration": 9200000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 88700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "data",
+                        "Offset": 90300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "analysis",
+                        "Offset": 92700000,
+                        "Duration": 9600000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 104300000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "believe",
+                        "Offset": 105100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 109100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "technology",
+                        "Offset": 110700000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "can",
+                        "Offset": 117900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "solve",
+                        "Offset": 119500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "real",
+                        "Offset": 122700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "world",
+                        "Offset": 125100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "problems",
+                        "Offset": 128300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 133100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "make",
+                        "Offset": 134700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 136700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "positive",
+                        "Offset": 137100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "impact",
+                        "Offset": 142300000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 146300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 147900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "'s",
+                        "Offset": 151100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "lives",
+                        "Offset": 151500000,
+                        "Duration": 4100000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8046245,
+                "Lexical": "hello my name is bruna and i'm currently studying systems analysis and development i'm passionate about technology especially cyber security and data analysis i believe that technology can solve real world problems and make a positive impact on people 's lives",
+                "ITN": "hello my name is bruna and i'm currently studying systems analysis and development i'm passionate about technology especially cyber security and data analysis i believe that technology can solve real world problems and make a positive impact on people 's lives",
+                "MaskedITN": "hello my name is bruna and i'm currently studying systems analysis and development i'm passionate about technology especially cyber security and data analysis i believe that technology can solve real world problems and make a positive impact on people 's lives",
+                "Display": "hello my name is bruna and i'm currently studying systems analysis and development i'm passionate about technology especially cyber security and data analysis i believe that technology can solve real world problems and make a positive impact on people 's lives",
+                "Words": [
+                    {
+                        "Word": "hello",
+                        "Offset": 700000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "my",
+                        "Offset": 7500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "name",
+                        "Offset": 9500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 11100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "bruna",
+                        "Offset": 12700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 15900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "i'm",
+                        "Offset": 20700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "currently",
+                        "Offset": 21900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "studying",
+                        "Offset": 25900000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "systems",
+                        "Offset": 30300000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "analysis",
+                        "Offset": 35500000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 41500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "development",
+                        "Offset": 42700000,
+                        "Duration": 9200000
+                    },
+                    {
+                        "Word": "i'm",
+                        "Offset": 53100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "passionate",
+                        "Offset": 55100000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "about",
+                        "Offset": 60700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "technology",
+                        "Offset": 62700000,
+                        "Duration": 9600000
+                    },
+                    {
+                        "Word": "especially",
+                        "Offset": 73100000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "cyber",
+                        "Offset": 79500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "security",
+                        "Offset": 83100000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 88700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "data",
+                        "Offset": 90300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "analysis",
+                        "Offset": 92700000,
+                        "Duration": 9600000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 104300000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "believe",
+                        "Offset": 105100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 109100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "technology",
+                        "Offset": 110700000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "can",
+                        "Offset": 117900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "solve",
+                        "Offset": 119500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "real",
+                        "Offset": 122700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "world",
+                        "Offset": 125100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "problems",
+                        "Offset": 128300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 133100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "make",
+                        "Offset": 134700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 136700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "positive",
+                        "Offset": 137100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "impact",
+                        "Offset": 142300000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 146300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 147900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "'s",
+                        "Offset": 151100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "lives",
+                        "Offset": 151500000,
+                        "Duration": 4100000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8188282,
+                "Lexical": "hello my name is bruna and i'm currently studying systems analysis and development i'm passionate about technology especially cybersecurity and data analysis i believe that technology can solve real-world problems and make a positive impact on people 's lives",
+                "ITN": "hello my name is bruna and i'm currently studying systems analysis and development i'm passionate about technology especially cybersecurity and data analysis i believe that technology can solve real-world problems and make a positive impact on people 's lives",
+                "MaskedITN": "hello my name is bruna and i'm currently studying systems analysis and development i'm passionate about technology especially cybersecurity and data analysis i believe that technology can solve real-world problems and make a positive impact on people 's lives",
+                "Display": "hello my name is bruna and i'm currently studying systems analysis and development i'm passionate about technology especially cybersecurity and data analysis i believe that technology can solve real-world problems and make a positive impact on people 's lives",
+                "Words": [
+                    {
+                        "Word": "hello",
+                        "Offset": 700000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "my",
+                        "Offset": 7500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "name",
+                        "Offset": 9500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 11100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "bruna",
+                        "Offset": 12700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 15900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "i'm",
+                        "Offset": 20700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "currently",
+                        "Offset": 21900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "studying",
+                        "Offset": 25900000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "systems",
+                        "Offset": 30300000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "analysis",
+                        "Offset": 35500000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 41500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "development",
+                        "Offset": 42700000,
+                        "Duration": 9200000
+                    },
+                    {
+                        "Word": "i'm",
+                        "Offset": 53100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "passionate",
+                        "Offset": 55100000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "about",
+                        "Offset": 60700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "technology",
+                        "Offset": 62700000,
+                        "Duration": 9600000
+                    },
+                    {
+                        "Word": "especially",
+                        "Offset": 73100000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "cybersecurity",
+                        "Offset": 79500000,
+                        "Duration": 9200000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 88700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "data",
+                        "Offset": 90300000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "analysis",
+                        "Offset": 92700000,
+                        "Duration": 9600000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 104300000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "believe",
+                        "Offset": 105100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 109100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "technology",
+                        "Offset": 110700000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "can",
+                        "Offset": 117900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "solve",
+                        "Offset": 119500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "real-world",
+                        "Offset": 122700000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "problems",
+                        "Offset": 128300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 133100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "make",
+                        "Offset": 134700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 136700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "positive",
+                        "Offset": 137100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "impact",
+                        "Offset": 142300000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 146300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 147900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "'s",
+                        "Offset": 151100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "lives",
+                        "Offset": 151500000,
+                        "Duration": 4100000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8326955,
+                "Lexical": "hello my name is bruna and i'm currently studying systems analysis and development i'm passionate about technology especially cybersecurity and data i believe that technology can solve real world problems and make a positive impact on people 's lives",
+                "ITN": "hello my name is bruna and i'm currently studying systems analysis and development i'm passionate about technology especially cybersecurity and data i believe that technology can solve real world problems and make a positive impact on people 's lives",
+                "MaskedITN": "hello my name is bruna and i'm currently studying systems analysis and development i'm passionate about technology especially cybersecurity and data i believe that technology can solve real world problems and make a positive impact on people 's lives",
+                "Display": "hello my name is bruna and i'm currently studying systems analysis and development i'm passionate about technology especially cybersecurity and data i believe that technology can solve real world problems and make a positive impact on people 's lives",
+                "Words": [
+                    {
+                        "Word": "hello",
+                        "Offset": 700000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "my",
+                        "Offset": 7500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "name",
+                        "Offset": 9500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 11100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "bruna",
+                        "Offset": 12700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 15900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "i'm",
+                        "Offset": 20700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "currently",
+                        "Offset": 21900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "studying",
+                        "Offset": 25900000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "systems",
+                        "Offset": 30300000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "analysis",
+                        "Offset": 35500000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 41500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "development",
+                        "Offset": 42700000,
+                        "Duration": 9200000
+                    },
+                    {
+                        "Word": "i'm",
+                        "Offset": 53100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "passionate",
+                        "Offset": 55100000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "about",
+                        "Offset": 60700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "technology",
+                        "Offset": 62700000,
+                        "Duration": 9600000
+                    },
+                    {
+                        "Word": "especially",
+                        "Offset": 73100000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "cybersecurity",
+                        "Offset": 79500000,
+                        "Duration": 9200000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 88700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "data",
+                        "Offset": 90300000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 96300000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "believe",
+                        "Offset": 105100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 109100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "technology",
+                        "Offset": 110700000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "can",
+                        "Offset": 117900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "solve",
+                        "Offset": 119500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "real",
+                        "Offset": 122700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "world",
+                        "Offset": 125100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "problems",
+                        "Offset": 128300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 133100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "make",
+                        "Offset": 134700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 136700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "positive",
+                        "Offset": 137100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "impact",
+                        "Offset": 142300000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 146300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 147900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "'s",
+                        "Offset": 151100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "lives",
+                        "Offset": 151500000,
+                        "Duration": 4100000
+                    }
+                ]
+            },
+            {
+                "Confidence": 0.8135569,
+                "Lexical": "hello my name is bruna and i'm currently studying systems analysis and development i'm passionate about technology especially cyber security and data i believe that technology can solve real world problems and make a positive impact on people 's lives",
+                "ITN": "hello my name is bruna and i'm currently studying systems analysis and development i'm passionate about technology especially cyber security and data i believe that technology can solve real world problems and make a positive impact on people 's lives",
+                "MaskedITN": "hello my name is bruna and i'm currently studying systems analysis and development i'm passionate about technology especially cyber security and data i believe that technology can solve real world problems and make a positive impact on people 's lives",
+                "Display": "hello my name is bruna and i'm currently studying systems analysis and development i'm passionate about technology especially cyber security and data i believe that technology can solve real world problems and make a positive impact on people 's lives",
+                "Words": [
+                    {
+                        "Word": "hello",
+                        "Offset": 700000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "my",
+                        "Offset": 7500000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "name",
+                        "Offset": 9500000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "is",
+                        "Offset": 11100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "bruna",
+                        "Offset": 12700000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 15900000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "i'm",
+                        "Offset": 20700000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "currently",
+                        "Offset": 21900000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "studying",
+                        "Offset": 25900000,
+                        "Duration": 4400000
+                    },
+                    {
+                        "Word": "systems",
+                        "Offset": 30300000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "analysis",
+                        "Offset": 35500000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 41500000,
+                        "Duration": 1200000
+                    },
+                    {
+                        "Word": "development",
+                        "Offset": 42700000,
+                        "Duration": 9200000
+                    },
+                    {
+                        "Word": "i'm",
+                        "Offset": 53100000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "passionate",
+                        "Offset": 55100000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "about",
+                        "Offset": 60700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "technology",
+                        "Offset": 62700000,
+                        "Duration": 9600000
+                    },
+                    {
+                        "Word": "especially",
+                        "Offset": 73100000,
+                        "Duration": 6400000
+                    },
+                    {
+                        "Word": "cyber",
+                        "Offset": 79500000,
+                        "Duration": 3600000
+                    },
+                    {
+                        "Word": "security",
+                        "Offset": 83100000,
+                        "Duration": 5600000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 88700000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "data",
+                        "Offset": 90300000,
+                        "Duration": 6000000
+                    },
+                    {
+                        "Word": "i",
+                        "Offset": 96300000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "believe",
+                        "Offset": 105100000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "that",
+                        "Offset": 109100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "technology",
+                        "Offset": 110700000,
+                        "Duration": 7200000
+                    },
+                    {
+                        "Word": "can",
+                        "Offset": 117900000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "solve",
+                        "Offset": 119500000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "real",
+                        "Offset": 122700000,
+                        "Duration": 2400000
+                    },
+                    {
+                        "Word": "world",
+                        "Offset": 125100000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "problems",
+                        "Offset": 128300000,
+                        "Duration": 4800000
+                    },
+                    {
+                        "Word": "and",
+                        "Offset": 133100000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "make",
+                        "Offset": 134700000,
+                        "Duration": 2000000
+                    },
+                    {
+                        "Word": "a",
+                        "Offset": 136700000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "positive",
+                        "Offset": 137100000,
+                        "Duration": 5200000
+                    },
+                    {
+                        "Word": "impact",
+                        "Offset": 142300000,
+                        "Duration": 4000000
+                    },
+                    {
+                        "Word": "on",
+                        "Offset": 146300000,
+                        "Duration": 1600000
+                    },
+                    {
+                        "Word": "people",
+                        "Offset": 147900000,
+                        "Duration": 3200000
+                    },
+                    {
+                        "Word": "'s",
+                        "Offset": 151100000,
+                        "Duration": 400000
+                    },
+                    {
+                        "Word": "lives",
+                        "Offset": 151500000,
+                        "Duration": 4100000
+                    }
+                ]
+            }
+        ]
+    }
+]
